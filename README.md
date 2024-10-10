@@ -19,3 +19,12 @@ Primeiro criamos uma função assincrona, para não ser executada da forma norma
   async function fetchCryptoPrices() {
   
 ```
+
+Pegamos a url da API guardamos no const, usamos o await para indicar que o JS deve esperar a resposta da API seja recebida antes de continuar com a execução do código.
+O fetch é usado para fazer a requisição HTTP para a URL da API.Ele retorna uma Promise (uma promessa).
+
+```javascript
+    const response = await fetch(url);
+    const prices = await response.json();
+
+```

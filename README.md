@@ -4,8 +4,11 @@
 Criamos uma página web com Js, html e css que mostra os valores reais das criptos moedas( Bitcoin e Ethereum). Para isso usamos o Flecher do JavaScript.
 
 ### API 
-Pegamos a API CoinGecko.
+
 <img src="coingecko.svg" width="200px" heigth="300px">
+
+Pegamos a API CoinGecko.
+
 
 ### Codigo 
 

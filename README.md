@@ -2,7 +2,8 @@
 
 ## Contexto
 Criamos uma página web com Js, html e css que mostra os valores reais das criptos moedas( Bitcoin e Ethereum). Para isso usamos o Flecher do JavaScript.
-<img src="poc04">
+
+<img src="poc04.PNG">
 
 ### API 
 
